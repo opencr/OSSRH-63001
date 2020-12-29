@@ -1,1 +1,1 @@
-# fast-OSSRH-63001
+# OSSRH-63001
